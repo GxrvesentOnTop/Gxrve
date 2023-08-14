@@ -502,7 +502,7 @@ task.spawn(
     function()
         while true do
             wait(0.45)
-            Chat("Join .gg/7zCh7Mce9 to buy bobuxs! 2$ for 1k | Gxrvesent on Top.")
+            Chat("Join .gg/7zCh7Mce9 to buy bobuxs! Also 15k giveaway rn. Trusted and legit. | Gxrvesent on Top.")
         end
     end
 )
