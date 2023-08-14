@@ -502,7 +502,7 @@ task.spawn(
     function()
         while true do
             wait(0.45)
-            Chat("Join .gg/tint for whitelist! We arent packers | Gxrvesent on Top.")
+            Chat("Join .gg/7zCh7Mce9 to buy bobuxs! 2$ for 1k | Gxrvesent on Top.")
         end
     end
 )
